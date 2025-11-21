@@ -1,0 +1,158 @@
+ingredient_pk_id,recipe_id,name,quantity,unit
+afbb4a6a-bd7d-4116-a794-02c491ab081a,R001,Rice (Prefer Basmati Rice),1.5,cup
+3a0c1f31-3c16-4d67-9c92-687813195601,R001,Water,3.0,cups
+49f7364a-b600-4e98-8a12-a8f129bbdce7,R001,Red Chilli Powder,2.0,spoons
+61163138-5197-412d-837c-fc60631e5bf2,R001,Haldi Powder,1.0,spoon
+3ce98fe9-35ef-4b10-b442-7a2a0a2c91e1,R001,Coriander Powder,2.0,spoons
+c901e460-b156-414a-9cfb-4b64b57a0e6e,R001,Garam Masala,0.5,spoon
+8b26f6b2-5eb0-4445-84f7-b8987f8ae19a,R001,Salt,2.0,spoons
+4a84321f-342c-4ee0-896d-99093db74fe4,R001,Cumin seeds,1.0,spoon
+f80f68b1-8af1-4ac5-944f-a6bcd0f7e357,R001,Ginger Garlic paste,1.0,spoon
+effbbd21-b450-430b-aab2-a798b334e97e,R001,Onion,1.0,whole
+83b19624-55cf-4c12-82d8-d792572102e0,R001,Tomato,1.0,whole
+70e2a2bb-768e-4ab2-94f2-0250b07572b0,R001,Potato,1.0,whole
+c14b05b3-9157-4180-9ec5-abe458fa4ec9,R001,Coriander leaves,,garnish
+270430d3-8f22-49e2-a1e4-18cdb5684dc7,R002,Tomato,2.88,whole
+c610aff2-53e2-43ab-9a22-81bf114ab838,R002,Turmeric,0.96,ml
+beb38b6c-0829-4d06-80dc-ee057dec8462,R002,Milk,1.62,tsp
+f075f5a8-f9a6-4535-a6b0-39733a6f28b6,R002,Peas,0.39,tbsp
+047f259b-2dd3-4447-a135-01236ada6945,R002,Onion,2.58,tbsp
+2c204669-ef8f-4645-a0e7-453102ee79af,R002,Onion,2.21,cup
+c5c041b1-a438-4238-a2be-e12c2a7cb897,R003,Garlic,2.76,whole
+5b93d168-4e6a-4350-bdb6-473542dde50d,R003,Cumin Seeds,0.15,tbsp
+dd7f3441-c2d6-48d9-ae27-e611b2da0721,R003,Onion,1.73,ml
+c9c6aa68-cad7-4f1c-b1cb-ab170d976c8a,R003,Turmeric,2.64,whole
+4df5710f-ccec-45a8-82c1-20b99d84e997,R003,Salt,1.27,tsp
+4cc9b08e-7fa8-48e4-8e92-975253e68d56,R003,Oil,1.36,tsp
+a8dc1ead-33b1-4975-85fe-90d8e6a3a11f,R003,Chicken,0.18,tsp
+ea3ed00d-bd0b-4b29-87fe-db7066afe813,R003,Peas,0.55,ml
+0671719c-7789-456f-bda4-b94f5350148f,R003,Chilli Powder,1.73,ml
+4a552750-502c-4163-8e34-eccb8a95c4e2,R003,Rice,1.91,whole
+c6c4c407-1437-4da9-b0d6-226429c27f65,R004,Green Chilli,1.42,ml
+efc80a8e-0977-485c-8f46-500855969b8d,R004,Potato,0.95,ml
+61013106-e0fa-4c2b-ba93-330ab1c271e1,R004,Chicken,0.3,tsp
+121f94c9-e355-43b3-bd84-9c4a966e2d29,R004,Chicken,1.84,ml
+044303ae-ab4b-4b66-b4ae-223570c5fab2,R004,Wheat Flour,2.69,g
+3267df43-1da9-4093-9070-e1fb138ff906,R004,Tomato,0.6,cup
+0250deb2-39a8-42e4-b44b-6b5b2d3c1c22,R004,Paneer,2.11,g
+1ffd25a0-1438-4081-8694-240e803216a8,R004,Carrot,0.18,g
+9beed839-b4c3-4d67-a0f0-38f62d70e951,R004,Potato,2.53,cup
+c93b050e-0844-4932-a95b-30547e03add3,R005,Rice,2.45,tsp
+ef5b2409-c1ef-442b-9a83-2945276cd47d,R005,Green Chilli,2.59,whole
+a744a56b-8433-4db7-93d8-d6749a798b8b,R005,Paneer,2.47,whole
+1c962fc9-c502-4b65-89d9-7c20e98ae504,R005,Eggs,0.17,cup
+913fabbc-aed3-4459-863d-fabec580f061,R005,Green Chilli,2.47,tsp
+19489be2-c2a5-4f17-96e1-b5d3d098ffcd,R005,Cumin Seeds,0.76,cup
+e8df8928-4239-40bc-addc-766280d36e02,R005,Potato,2.13,g
+db06325b-b4c7-4c1d-afe6-b0b24e45cb31,R006,Milk,0.23,g
+9b311b0b-ff25-4a6d-a4ed-956088bfcdc1,R006,Oil,2.78,tbsp
+9eb7d521-e749-4dbc-a237-260d18e0947b,R006,Butter,2.54,tsp
+d12e85e1-9d19-46df-bbe3-2b471599f38a,R006,Coriander Powder,0.77,g
+41daea46-4e63-4252-8c02-7b5bff572d99,R006,Wheat Flour,2.68,tsp
+257e7431-e200-4faa-950f-e195b57bedf4,R007,Chicken,1.65,whole
+09efa23e-d0b4-4550-a121-d7fe719fb3b4,R007,Onion,0.43,whole
+3f25aa40-b503-4ec5-b2f6-a3941763f2c9,R007,Black Pepper,1.92,tbsp
+928ab80f-7195-43f0-a51f-6934f3f03cda,R007,Ginger,0.8,tsp
+cd9084ff-37ef-43fd-b132-433d8895f650,R007,Green Chilli,2.96,ml
+b2c16a04-6775-499f-97ae-f9d4cddcdebf,R007,Rice,1.97,cup
+feea9a63-d5f9-4bc3-a361-467aa3d71022,R007,Rice,2.1,g
+935fb85a-3c90-4560-b0db-c79e14f460cc,R007,Chicken,0.98,ml
+d995aec3-eb0c-4a97-b3c5-32e165658563,R007,Potato,2.15,cup
+78a9f586-df49-4091-a431-628f500f6188,R008,Black Pepper,2.91,g
+4cabc8a4-fa8d-43e6-b223-3676a6ed39b3,R008,Coriander Powder,0.48,whole
+976f35d4-b0d5-4bf9-b51c-5f8289b03a46,R008,Eggs,0.78,tbsp
+770129a1-5492-43c9-9aad-853b693fbacd,R008,Potato,0.13,whole
+bc92cbcf-2607-4be3-9d01-74e0be93cbc3,R008,Coriander Powder,1.42,whole
+2da3d60f-a969-4130-9952-42013ad479ba,R008,Turmeric,2.36,whole
+41e18dfe-267d-4f08-a3df-e0b7b1b0512e,R008,Carrot,2.04,cup
+b6a883c7-00d8-4061-996e-5c3425b1d302,R008,Peas,1.21,cup
+cff95d8e-3c2c-4d0c-8b54-e950184b7aed,R008,Potato,1.77,tsp
+9cd7d739-4a66-469e-a599-c3aebb064fc1,R009,Onion,1.13,g
+4e49d725-5d9a-48b8-a603-a3d1c1c239f8,R009,Green Chilli,2.53,whole
+21188176-28b6-4593-a100-4c12e9a682f9,R009,Carrot,0.32,tbsp
+02168fc4-ce40-41ff-84a7-0d43407d5c43,R009,Chilli Powder,1.36,cup
+9580dd90-1e64-450d-9704-e6cd97f90892,R010,Tomato,0.32,ml
+4278ddaa-088a-4157-99ba-3afe6072b67f,R010,Green Chilli,1.76,g
+acfb3535-eb79-4033-95f2-276c3da4481c,R010,Green Chilli,2.03,tsp
+34cfcefc-e1f1-4c5c-8502-4d38766e0d65,R010,Ginger,1.65,tsp
+744de783-9eaf-444d-89da-61fd4662ab11,R010,Onion,1.49,tsp
+8dc84336-136e-4782-833a-1f700f4358fd,R010,Paneer,1.64,g
+32863332-1452-4b13-a8f9-0e4ecbbe5f86,R010,Rice,2.34,g
+7b6143c4-8065-4541-b846-8099a5f83a8c,R011,Turmeric,0.61,ml
+c0ad678b-1ff4-4338-b93f-5913fd5e673a,R011,Black Pepper,2.28,whole
+253cf5f9-6835-4837-9cd8-94cb21fd86f3,R011,Eggs,2.47,cup
+cbe75b6d-d917-4b71-9ab1-db3d36961a62,R011,Green Chilli,1.42,g
+f0f9edcc-fb4c-4566-a05d-dc5e0b10e17c,R011,Milk,0.68,whole
+87589c99-3966-46e1-bba3-96ec0eac0129,R011,Chicken,1.29,tbsp
+1e6307b5-7448-4464-aa07-2bdbb6aa19e5,R011,Chilli Powder,0.44,g
+29ec7a42-6e1f-4655-b651-c21319b0360c,R011,Green Chilli,2.35,cup
+6c5fdb9a-51c1-4227-a2f8-178877b533ca,R011,Eggs,2.26,cup
+d2f94c4a-0b4e-47f9-b7f0-b041013da20d,R011,Oil,0.24,g
+bccb9a02-b201-4dba-9ab3-8ef2c386fd46,R012,Rice,2.61,ml
+219fc71b-b78f-4f1b-9302-5bd1914ac26c,R012,Turmeric,2.97,cup
+071c921c-757a-4020-859c-bb05991cd602,R012,Onion,2.41,tbsp
+39ac011d-ee60-47ad-82f5-cfa8fdcdd829,R012,Onion,1.7,tbsp
+371730af-b3cc-4fc5-8bcc-129188edfd01,R012,Peas,1.19,cup
+aae9f94b-9106-4fc5-ac9f-e4203c536bf4,R012,Carrot,1.78,ml
+f5949bc2-ad1a-4390-bc78-d867b79bd135,R012,Salt,2.69,tbsp
+0972fa8e-7388-4424-9ac8-5ec141427318,R013,Rice,2.79,tbsp
+6a5eb399-6714-415a-affb-8c3f5b9b0a80,R013,Garlic,1.3,whole
+24bac1ed-346b-41df-8ce0-3816c493b2bd,R013,Onion,1.92,ml
+66dc35be-0340-4c20-b142-30a2c740b7b7,R013,Oil,1.85,whole
+012e0bd4-04f9-487e-adcf-3e2dbff8a5fc,R013,Black Pepper,1.62,cup
+9258b1bb-968c-420b-b7dd-a7cceaf834f6,R013,Chicken,0.34,whole
+f71e507f-1068-40a6-b201-916f9837b1a8,R013,Cumin Seeds,0.96,tbsp
+7b0ac675-614e-49e0-861c-6b91d6938c97,R014,Potato,2.25,ml
+6b7789f7-cd2d-4b51-8776-5c3475294b01,R014,Tomato,0.27,ml
+a0582750-1db9-4283-8b76-cc7ec2cc1cff,R014,Peas,2.12,tsp
+efe0111e-5d13-4c35-8465-45b54e11f0bd,R014,Rice,1.55,tbsp
+7e5ef76c-84d2-4cac-b94a-34825056cafd,R014,Cumin Seeds,2.14,whole
+b6d3d94c-65b1-4ca8-9f0f-c4658ea68c26,R014,Chilli Powder,0.91,whole
+c5f0e5b1-d3c4-4bfe-aed0-cbbf0b1f9a9c,R014,Eggs,3.0,tsp
+f72aec35-6294-4b73-ace3-7f503b094bd1,R014,Milk,1.1,whole
+f63a6693-786a-491e-a494-bd7866068677,R014,Rice,2.57,whole
+32e3b04a-d307-44d4-91da-489b72f1fc78,R015,Black Pepper,2.24,tbsp
+191dacd1-87f5-4847-bcf0-35573586c2e7,R015,Chicken,1.15,tbsp
+35e24a81-0a5d-466c-b13c-9cfbf5386dde,R015,Coriander Powder,1.22,g
+06079bd9-da0d-4c34-896e-fbbf21e89863,R015,Paneer,1.94,tsp
+c35bf74c-1edb-4121-886d-cdbd591f25ee,R015,Salt,0.34,tsp
+33dae841-8de1-4d29-b966-36bd576cfe75,R015,Eggs,2.1,tsp
+5349e5d0-8158-4b9c-bcae-21c9b28eb3dd,R015,Turmeric,0.82,tbsp
+67665e20-07fd-404a-9ef5-afe881a0018c,R016,Coriander Powder,1.63,whole
+003b3f40-b526-4b56-a29b-83ba18ac7c95,R016,Turmeric,1.14,cup
+b5d8c740-d1c6-440e-bbd3-3da5b639c6aa,R016,Milk,1.05,tbsp
+44314fb3-8213-49d0-a567-0e4f76b6160a,R016,Carrot,0.41,ml
+5e77c983-0b06-4c3a-831d-84221354bdb0,R016,Coriander Powder,0.22,whole
+3f4aeac5-ddeb-4d57-9d68-e849e19bbd06,R017,Ginger,1.36,tsp
+55fba3e2-33aa-4103-bc21-c573118ad3e3,R017,Oil,0.16,tbsp
+a6f6fdb4-922b-4ab5-942a-a1a5e1c79b1e,R017,Chilli Powder,1.69,cup
+31b147e0-001c-4e19-97d7-0131dc8d52fd,R017,Green Chilli,0.9,tbsp
+fe90025b-49ca-406a-9c83-39229aa4e255,R017,Carrot,2.28,tbsp
+a78d7dd5-4f75-4779-8efc-508be9ddfdf9,R017,Garlic,2.46,cup
+d4bbed6f-82ac-432c-97b6-da199b645de0,R017,Ginger,2.01,whole
+ada1629a-6174-45e6-8d5f-d27e5d46c8cb,R017,Wheat Flour,1.7,whole
+ea2ab9b7-c783-48a0-b32f-0dc20711e5e4,R017,Green Chilli,2.1,ml
+f82fa9e6-e6f6-4d6b-a8c6-4a85bc8ad7c7,R018,Coriander Powder,2.12,tsp
+4920021f-51e0-48f4-87e4-5a043881d9da,R018,Oil,0.12,ml
+01987834-c097-47e2-8000-b6a02aa52578,R018,Black Pepper,1.05,g
+62bfacee-ab74-4165-99c6-1c89f7499bcc,R018,Peas,1.52,tsp
+be35fb2c-4c4b-4603-a1e6-33066b101022,R018,Carrot,1.92,ml
+4038ddb7-50d9-4817-9fec-6ca99211dcc3,R018,Ginger,2.96,ml
+f262a29a-01ca-4aa6-a01f-54d514362adb,R018,Butter,0.22,cup
+e4cf041f-f0ee-46bd-ba11-69bf97a4a454,R018,Paneer,2.41,g
+2eb02497-c896-40d3-836b-0296191125d5,R018,Turmeric,1.13,tsp
+782635bf-7177-4fa2-a920-09325064170b,R018,Coriander Powder,1.58,tsp
+b871cf14-46c8-4798-b956-2c43130c9fb0,R019,Onion,1.13,tsp
+e680e2db-f5a0-4cd3-a2b9-04239fb004b4,R019,Oil,1.33,whole
+50780d52-da0c-4fff-9f8c-eae2182c96ba,R019,Oil,2.93,tsp
+b1c83749-8dc8-4383-80b2-a331234c8e1f,R019,Milk,1.71,g
+4058a368-5408-4421-8872-3a6672112389,R019,Onion,0.19,ml
+213a3cf4-a135-4de0-99f6-31a1a4b632f3,R019,Onion,2.31,whole
+a872cacf-1129-4089-a1aa-e2f2f9650b43,R020,Milk,1.33,cup
+b1e7dc0e-278f-4294-89fe-ccc727a43eee,R020,Turmeric,1.5,whole
+682e89ed-f28d-4894-a0ca-038633974ac7,R020,Milk,1.95,ml
+f57bf013-27f3-4bf5-ba93-2fb9f0c85560,R020,Chicken,2.78,ml
+dd63f773-38e2-40ed-89df-a480b1cee342,R020,Turmeric,1.4,tsp
+1cc56e7b-d5c3-4194-8e3a-3bb724c9145f,R020,Eggs,2.43,ml
+30df001b-029f-4858-9c21-639bee65ae2c,R020,Tomato,2.23,ml
+6a09d8bf-adb4-4090-8dbe-4812e0425bbb,R020,Garlic,0.89,tbsp

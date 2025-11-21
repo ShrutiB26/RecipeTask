@@ -1,0 +1,107 @@
+step_pk_id,recipe_id,step_number,description
+5207e87b-e2f6-43d6-90d6-2669c6cd5128,R001,1,Wash and soak rice for 10 minutes.
+a3340d88-01db-4040-97be-91218a9c0cf6,R001,2,Heat pan/kadhai.
+67204a73-8631-4121-a744-15cb2604f655,R001,3,"Heat oil. Add Cumin seeds, then Ginger Garlic paste."
+5e36079b-589a-4b64-9500-39371fbd2509,R001,4,Add chopped Onion and cook until golden brown.
+3eb4c289-0552-4918-8e47-91186be8fc8b,R001,5,Add potato cubes and sauté.
+c95b3eaa-73f0-47f9-b3f8-25e6a7ce9139,R001,6,Add chopped tomatoes and all masalas from the ingredient list. Stir.
+134c6daf-b4fd-4578-8227-ec0c09f76b4d,R001,7,Cover and cook for 2-3 mins until oil separates.
+9e2315c8-1a70-44ff-a3eb-03eb2d9b5eca,R001,8,Add soaked rice and mix well with masala.
+22a50c1f-02f8-4b38-8399-dcaea68b4601,R001,9,Add 3 cups of water. Cover and cook for 10 minutes on medium-high flame.
+6a2bc776-2e54-44c1-ae1f-e6a963a461a6,R001,10,"Lower flame, keep covered for 2-3 minutes to enhance taste with steam."
+6265323f-a130-4a86-8705-4df26d2c39d0,R001,11,"Open lid, add chopped coriander leaves, and fluff the rice. Serve hot."
+ea079b64-e5b6-4557-91b6-7dde7f9158bd,R002,1,Step 1: Follow standard cooking procedure.
+51c85a27-cc1c-4e62-9ad4-2baf9aa44e9c,R002,2,Step 2: Follow standard cooking procedure.
+e316bebf-2ab9-423d-b51b-dddcbec28a58,R002,3,Step 3: Follow standard cooking procedure.
+96e4b09c-0f43-4aba-b850-0c34e288d73e,R002,4,Step 4: Follow standard cooking procedure.
+1a94e051-d04d-456c-b25c-b1cc1903014c,R002,5,Step 5: Follow standard cooking procedure.
+8dde6958-e4dd-4a2b-b32b-f6556d687df4,R002,6,Step 6: Follow standard cooking procedure.
+0081735d-c398-43e9-9cdc-0ec4d525dda7,R003,1,Step 1: Follow standard cooking procedure.
+b02610ea-cf67-4bb6-9073-b3b63c6850f8,R003,2,Step 2: Follow standard cooking procedure.
+ef4f55a4-5772-455c-9ccc-d91bfa1bab92,R003,3,Step 3: Follow standard cooking procedure.
+b3768193-629f-49a1-9326-2ef6112ea47e,R003,4,Step 4: Follow standard cooking procedure.
+c4d03d64-ce75-4796-895e-f5a900ef4bad,R003,5,Step 5: Follow standard cooking procedure.
+8e1b23a5-af39-4a72-bc25-27b5f7870762,R003,6,Step 6: Follow standard cooking procedure.
+4a6b080d-ced1-4ec1-8488-a9503f42f203,R003,7,Step 7: Follow standard cooking procedure.
+d5c3e314-c511-4e41-9c14-7f1df2eea304,R004,1,Step 1: Follow standard cooking procedure.
+5d16d4ec-1386-41bc-80ed-eff464124a0f,R004,2,Step 2: Follow standard cooking procedure.
+bebbe7c6-52eb-4945-a9b8-359a45e91fef,R004,3,Step 3: Follow standard cooking procedure.
+c43bcd57-ed45-4b4c-85de-6e41c1a804a2,R004,4,Step 4: Follow standard cooking procedure.
+f226999e-b967-468e-8d3e-a831f118e6da,R004,5,Step 5: Follow standard cooking procedure.
+7b795694-be05-49fe-9652-a7c3ce1996fd,R005,1,Step 1: Follow standard cooking procedure.
+3b563e65-0c23-4e9b-9fb4-1c91d21e9109,R005,2,Step 2: Follow standard cooking procedure.
+f621bdbe-6274-4793-aa4b-bcccfdb46d37,R005,3,Step 3: Follow standard cooking procedure.
+f6e9f892-1c95-4a03-b558-d955fc1e7118,R005,4,Step 4: Follow standard cooking procedure.
+8701e836-f417-4ae4-9a55-09766eb2298b,R005,5,Step 5: Follow standard cooking procedure.
+99660e27-d077-4193-bf8a-49502d2859bf,R005,6,Step 6: Follow standard cooking procedure.
+7266dfa7-38b8-4326-805b-b62676c284a0,R006,1,Step 1: Follow standard cooking procedure.
+4e06c1aa-fc2e-480d-9e2b-559482dba47d,R006,2,Step 2: Follow standard cooking procedure.
+4aae4068-1bd2-4697-a9d8-66f1ad7dbf62,R006,3,Step 3: Follow standard cooking procedure.
+aabca40b-da00-4301-b5aa-cf65899f6562,R006,4,Step 4: Follow standard cooking procedure.
+22c323ba-db40-468a-8a22-d068e69baea8,R006,5,Step 5: Follow standard cooking procedure.
+babf2436-1800-497b-86db-048136d190c4,R007,1,Step 1: Follow standard cooking procedure.
+22e8008d-8cb3-4d4e-9bd2-4bbf3f303b81,R007,2,Step 2: Follow standard cooking procedure.
+9fe32678-b2c3-4a96-8d58-7c14bb43d45f,R007,3,Step 3: Follow standard cooking procedure.
+e43877b6-f12c-415d-adf1-353238428148,R007,4,Step 4: Follow standard cooking procedure.
+1b9fe2e8-6633-401b-9f03-88a4560ff5e8,R008,1,Step 1: Follow standard cooking procedure.
+55418e93-5291-4e61-8d64-57363a94667f,R008,2,Step 2: Follow standard cooking procedure.
+3762d074-63a1-4f9e-aaf1-ece8e9660920,R008,3,Step 3: Follow standard cooking procedure.
+a943ae23-db3a-48f0-9794-5bcf115935f1,R008,4,Step 4: Follow standard cooking procedure.
+9d49c809-8315-4ff0-9958-70d98821593d,R008,5,Step 5: Follow standard cooking procedure.
+1e976696-3d68-423b-b060-a45bbbf70933,R009,1,Step 1: Follow standard cooking procedure.
+475db9ad-1d7f-477e-8a26-552c5f4a6eb7,R009,2,Step 2: Follow standard cooking procedure.
+7db67c33-aba1-4a56-9fcd-94b74494d06b,R009,3,Step 3: Follow standard cooking procedure.
+cd163f95-a81e-43e9-bb65-a76e2cd26e5a,R009,4,Step 4: Follow standard cooking procedure.
+c346ea4e-b68e-430b-9cd3-5d5ed240dae7,R010,1,Step 1: Follow standard cooking procedure.
+ff9bf310-e56d-4e38-ae01-611f30640977,R010,2,Step 2: Follow standard cooking procedure.
+b28ef374-0e15-42bf-b233-2ea1fa563fc8,R010,3,Step 3: Follow standard cooking procedure.
+f633f659-aff1-4a18-9435-6bd26aba5d6f,R010,4,Step 4: Follow standard cooking procedure.
+53dcea1b-16c5-4a47-93d4-749a3a67655d,R011,1,Step 1: Follow standard cooking procedure.
+088e46fa-e3e2-4fb4-b752-51a8a136b6f1,R011,2,Step 2: Follow standard cooking procedure.
+9fba0cf6-8042-46b1-8e6f-fdc18d6622c0,R011,3,Step 3: Follow standard cooking procedure.
+4f24b178-920c-48fc-a2d5-2312d7ae9cea,R011,4,Step 4: Follow standard cooking procedure.
+93402072-4682-4c53-a0e8-52bdd63c9afb,R011,5,Step 5: Follow standard cooking procedure.
+7c569b90-b27c-469a-aafa-68a04331b748,R011,6,Step 6: Follow standard cooking procedure.
+43e7d282-4b55-4862-8dfe-6b8d8a1404ea,R011,7,Step 7: Follow standard cooking procedure.
+d75ce960-4316-41a4-92b2-4e3993031d79,R012,1,Step 1: Follow standard cooking procedure.
+f726677f-0db3-4f12-89d6-cf6c4906ca46,R012,2,Step 2: Follow standard cooking procedure.
+5ee59735-a9fb-4194-9efd-5909169429c9,R012,3,Step 3: Follow standard cooking procedure.
+91d02a53-68bc-40d9-b653-fcb80ff346ac,R013,1,Step 1: Follow standard cooking procedure.
+2c8420ff-f57d-4c08-991b-fbe6468b5a4b,R013,2,Step 2: Follow standard cooking procedure.
+927216ff-1464-4958-9545-5e5196a5c6b8,R013,3,Step 3: Follow standard cooking procedure.
+896b743b-f270-4aca-b63c-4378407d82bb,R013,4,Step 4: Follow standard cooking procedure.
+1e07a9f2-146a-4554-9665-93281c532b77,R013,5,Step 5: Follow standard cooking procedure.
+ea803d50-5eea-428b-8b2d-df653903c2b6,R013,6,Step 6: Follow standard cooking procedure.
+461245cd-354c-4ec8-a9eb-8a964b45dfbd,R014,1,Step 1: Follow standard cooking procedure.
+7520a34b-310f-4b2b-9ac0-843710259438,R014,2,Step 2: Follow standard cooking procedure.
+acf75015-d8cb-46e4-80cf-92af1d2bb72c,R014,3,Step 3: Follow standard cooking procedure.
+09c681c9-4d4e-4c33-985c-634329603603,R014,4,Step 4: Follow standard cooking procedure.
+4828b520-b6e4-45f0-897e-8fd10f740878,R015,1,Step 1: Follow standard cooking procedure.
+9ddcf171-28ae-4c32-8ff5-5816a95c3bfc,R015,2,Step 2: Follow standard cooking procedure.
+e43d48b0-eb06-4e88-b7a4-025378b949ed,R015,3,Step 3: Follow standard cooking procedure.
+7966469d-b672-49ae-ad57-f325d9351a8e,R015,4,Step 4: Follow standard cooking procedure.
+8f9870a0-1c6d-4e31-b1f1-cee4fd38b1c2,R015,5,Step 5: Follow standard cooking procedure.
+f7f06375-880a-4e69-874a-a29e266756a7,R015,6,Step 6: Follow standard cooking procedure.
+1dc53e1d-b861-4814-8e9a-80d3e0c16471,R016,1,Step 1: Follow standard cooking procedure.
+9286c492-ecb7-47d8-8f47-87297a4f9628,R016,2,Step 2: Follow standard cooking procedure.
+b6d92a94-23ef-4293-995b-0c4b1a995fe4,R016,3,Step 3: Follow standard cooking procedure.
+0d1ff516-9350-4074-9968-39e57276f3a0,R016,4,Step 4: Follow standard cooking procedure.
+4187fc1d-561f-4323-b586-7d17181a4c17,R016,5,Step 5: Follow standard cooking procedure.
+f7ac09bd-7d08-4d89-9c92-70155e157ba6,R017,1,Step 1: Follow standard cooking procedure.
+033e324f-a660-46ca-8251-54303e20dc6f,R017,2,Step 2: Follow standard cooking procedure.
+1ba71888-d484-409e-88fa-2f32cb1241cc,R017,3,Step 3: Follow standard cooking procedure.
+784e4cd3-2700-457e-aa97-d7347ac7cde2,R017,4,Step 4: Follow standard cooking procedure.
+d35ac6be-1796-4417-8bce-d6c2fa4bb624,R017,5,Step 5: Follow standard cooking procedure.
+892db1bd-ef02-4c72-a786-bdc195b87312,R018,1,Step 1: Follow standard cooking procedure.
+581acacc-54ab-49e3-b750-39d160f41d3e,R018,2,Step 2: Follow standard cooking procedure.
+f857eb9b-38ed-4ac9-94eb-e10764dc2dc6,R018,3,Step 3: Follow standard cooking procedure.
+0f786979-d420-4970-9ebe-64e4e3110896,R018,4,Step 4: Follow standard cooking procedure.
+9b8451f5-8705-458a-ac6d-2fd6dd700c45,R018,5,Step 5: Follow standard cooking procedure.
+83a2f124-18b5-4f6f-bf0c-93a9ddc0b38c,R018,6,Step 6: Follow standard cooking procedure.
+6cf83b6c-35ab-44b7-9338-520da7446a9b,R019,1,Step 1: Follow standard cooking procedure.
+4a893253-f1bb-4c92-844e-5723bd639cbe,R019,2,Step 2: Follow standard cooking procedure.
+e6050738-2138-41b2-8c85-9ea38082b85c,R019,3,Step 3: Follow standard cooking procedure.
+a4fff44a-a2de-4416-b483-920eb60fec58,R019,4,Step 4: Follow standard cooking procedure.
+b7a1cbd9-19d4-4585-876c-76a13824dbcc,R020,1,Step 1: Follow standard cooking procedure.
+bf901d91-23f8-4cfb-8e80-f4f20dc97387,R020,2,Step 2: Follow standard cooking procedure.
+11b307d3-0ad5-4de4-bc90-c2b8a34abbba,R020,3,Step 3: Follow standard cooking procedure.

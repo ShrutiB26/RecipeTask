@@ -1,0 +1,85 @@
+Data Quality Validation Report - Generated on: 2025-11-20 14:23:39
+======================================================================
+Summary of Validation Rules Applied:
+1. Required fields must be non-null.
+2. Numeric fields (e.g., times, serves, quantity) must be positive.
+3. Difficulty values must be 'Easy', 'Medium', or 'Hard'.
+4. Interaction types must be 'VIEW', 'LIKE', or 'COOK_ATTEMPT'.
+5. 'COOK_ATTEMPT' must have a rating between 1 and 5.
+----------------------------------------------------------------------
+
+File: RECIPE.CSV
+Total Records: 20
+Valid Records: 20
+Invalid Records: 0
+Data quality check PASSED. No invalid records found.
+----------------------------------------------------------------------
+
+File: INGREDIENTS.CSV
+Total Records: 157
+Valid Records: 156
+Invalid Records: 1
+--- 1 INVALID RECORDS FOUND ---
+ID: c14b05b3-9157-4180-9ec5-abe458fa4ec9 | Reasons: Missing required field: quantity
+----------------------------------------------------------------------
+
+File: STEPS.CSV
+Total Records: 106
+Valid Records: 106
+Invalid Records: 0
+Data quality check PASSED. No invalid records found.
+----------------------------------------------------------------------
+
+File: INTERACTIONS.CSV
+Total Records: 58
+Valid Records: 11
+Invalid Records: 47
+--- 47 INVALID RECORDS FOUND ---
+ID: 052fd2e5-d01b-4150-9108-3185f1b830f9 | Reasons: Interaction type LIKE should not have a rating.
+ID: 07e6e3de-5fb2-4728-ad27-e06b759a0937 | Reasons: Interaction type LIKE should not have a rating.
+ID: 11c77f52-f04b-428d-8713-f1125765d42f | Reasons: Interaction type VIEW should not have a rating.
+ID: 1914bae1-0309-4c1c-9e4e-e36e7df620b3 | Reasons: Interaction type LIKE should not have a rating.
+ID: 1a787132-4439-4409-968b-265cc6213c50 | Reasons: Interaction type VIEW should not have a rating.
+ID: 1f4de786-2cc8-4b7e-b738-5d03db306010 | Reasons: Interaction type VIEW should not have a rating.
+ID: 2457d308-e5c1-451f-91b6-e6511ad5aaee | Reasons: Interaction type LIKE should not have a rating.
+ID: 24fe3e47-78a8-4538-85b7-938dbdcd7dd0 | Reasons: Interaction type VIEW should not have a rating.
+ID: 317073d7-6150-486e-b841-8eb786185449 | Reasons: Interaction type VIEW should not have a rating.
+ID: 376b6a79-2b35-4c09-a1e5-f611a728e3d6 | Reasons: Interaction type LIKE should not have a rating.
+ID: 395babb9-66ec-4b54-8ab4-0c24d80b1133 | Reasons: Interaction type VIEW should not have a rating.
+ID: 39f27703-f56e-4101-8d84-ee3a9daba741 | Reasons: Interaction type VIEW should not have a rating.
+ID: 3b205f1a-1591-4f60-98cd-ac2fdd17b9a7 | Reasons: Interaction type LIKE should not have a rating.
+ID: 41716e23-a265-4b92-9ded-ff93743f5ac9 | Reasons: Interaction type VIEW should not have a rating.
+ID: 4a2c13b2-f479-4f9f-b975-8986845577cb | Reasons: Interaction type LIKE should not have a rating.
+ID: 5560138b-23c0-4397-8591-fdbe9d0c9817 | Reasons: Interaction type VIEW should not have a rating.
+ID: 598b5f2b-296b-4084-9225-bf1162269f7a | Reasons: Interaction type VIEW should not have a rating.
+ID: 5a4f97c9-62db-415d-a390-f6fa365fb2fa | Reasons: Interaction type LIKE should not have a rating.
+ID: 5e8ee251-3b1c-4822-b553-c6e3660b28d3 | Reasons: Interaction type LIKE should not have a rating.
+ID: 606f1938-0a12-4e06-8dd1-310668e0e5fc | Reasons: Interaction type VIEW should not have a rating.
+ID: 6afc075f-65b6-46b1-b55c-c6c0dcfb8080 | Reasons: Interaction type VIEW should not have a rating.
+ID: 716f74c3-7a23-46f3-9517-1fdf75b45cf1 | Reasons: Interaction type VIEW should not have a rating.
+ID: 71c93382-7bb0-4f90-be29-e5b83df57c68 | Reasons: Interaction type VIEW should not have a rating.
+ID: 72af8417-c6df-4715-ad58-17f35a9ea648 | Reasons: Interaction type VIEW should not have a rating.
+ID: 7add7ca2-3e00-4401-b1ba-b1fbf5826e1b | Reasons: Interaction type VIEW should not have a rating.
+ID: 82ae6321-d439-4f7c-a1da-4a5cf96e678b | Reasons: Interaction type LIKE should not have a rating.
+ID: 8ee005d0-0646-450b-ade3-e3b99c2cc670 | Reasons: Interaction type VIEW should not have a rating.
+ID: 9055226d-eadb-40ca-ad97-4e92e57c8d30 | Reasons: Interaction type VIEW should not have a rating.
+ID: 91e75eba-7a43-4e71-9027-8ce4a71d86f0 | Reasons: Interaction type LIKE should not have a rating.
+ID: 92933254-b0bf-4d6d-98fe-37b04b9bfd77 | Reasons: Interaction type VIEW should not have a rating.
+ID: 99da0494-562c-472b-98b5-f3a0653a213f | Reasons: Interaction type VIEW should not have a rating.
+ID: aaf7a532-51a2-4b80-8f2f-c29543b94853 | Reasons: Interaction type LIKE should not have a rating.
+ID: b940487b-9f06-4fea-8dec-d73868d2eb6f | Reasons: Interaction type VIEW should not have a rating.
+ID: c096ab89-a1cb-4f68-9a97-87fa5819e2ba | Reasons: Interaction type VIEW should not have a rating.
+ID: c43175b5-6a80-4a7f-b8c1-56c347436e20 | Reasons: Interaction type VIEW should not have a rating.
+ID: c62b5efe-a09d-4bca-b40d-33d8beb00cfb | Reasons: Interaction type VIEW should not have a rating.
+ID: c8869370-7624-477e-ac83-ed30672d0759 | Reasons: Interaction type LIKE should not have a rating.
+ID: ce49c170-f5bc-4492-a3eb-863a744cfe5d | Reasons: Interaction type VIEW should not have a rating.
+ID: d56078a8-acbc-4908-b5ef-2c98f0cbc8f5 | Reasons: Interaction type LIKE should not have a rating.
+ID: d58319a9-0ad2-426d-a524-70f2a0a3a7c0 | Reasons: Interaction type VIEW should not have a rating.
+ID: d77856c6-d2c2-487b-904e-6f10c301289f | Reasons: Interaction type VIEW should not have a rating.
+ID: d7e86ec7-6f19-413d-a558-256cf4442441 | Reasons: Interaction type VIEW should not have a rating.
+ID: ddf7a3ac-fe96-48dd-b4be-f4fa0ebf8ab7 | Reasons: Interaction type VIEW should not have a rating.
+ID: ecb78acb-8fff-4bcd-b0a1-01ad383fd58b | Reasons: Interaction type VIEW should not have a rating.
+ID: faf94b58-669e-4ee9-be21-4f2ca75cef29 | Reasons: Interaction type VIEW should not have a rating.
+ID: fd880d89-5528-477e-8935-0eeb35039297 | Reasons: Interaction type VIEW should not have a rating.
+ID: fe935449-95f1-407f-8fab-b63340e3979f | Reasons: Interaction type VIEW should not have a rating.
+----------------------------------------------------------------------
